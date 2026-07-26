@@ -1,6 +1,6 @@
 {
   "name": "@lucid-softworks/structured-value-codec",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Lossless JSON-compatible encoding for common structured JavaScript values.",
   "keywords": [
     "codec",
